@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FlavioAAMotta/spoticry-front.git/static/css/main.e9c9228d.css",
-    "main.js": "/FlavioAAMotta/spoticry-front.git/static/js/main.6affb5b8.js",
-    "static/media/loginBackground.png": "/FlavioAAMotta/spoticry-front.git/static/media/loginBackground.bedab7487b57f59a6b76.png",
-    "static/media/logoLogin.png": "/FlavioAAMotta/spoticry-front.git/static/media/logoLogin.b00d10e894fc74bbe0db.png",
-    "static/media/logoFooter.png": "/FlavioAAMotta/spoticry-front.git/static/media/logoFooter.703af3680bb760fb8df9.png",
-    "static/media/logoHeader.png": "/FlavioAAMotta/spoticry-front.git/static/media/logoHeader.940f01a38d475a2b068b.png",
-    "static/media/readyListen.svg": "/FlavioAAMotta/spoticry-front.git/static/media/readyListen.de1f8e1ec0f4bea156568fc7b4cebd52.svg",
-    "index.html": "/FlavioAAMotta/spoticry-front.git/index.html",
-    "main.e9c9228d.css.map": "/FlavioAAMotta/spoticry-front.git/static/css/main.e9c9228d.css.map",
-    "main.6affb5b8.js.map": "/FlavioAAMotta/spoticry-front.git/static/js/main.6affb5b8.js.map"
+    "main.css": "/spoticry-front/static/css/main.e9c9228d.css",
+    "main.js": "/spoticry-front/static/js/main.9cf805ba.js",
+    "static/media/loginBackground.png": "/spoticry-front/static/media/loginBackground.bedab7487b57f59a6b76.png",
+    "static/media/logoLogin.png": "/spoticry-front/static/media/logoLogin.b00d10e894fc74bbe0db.png",
+    "static/media/logoFooter.png": "/spoticry-front/static/media/logoFooter.703af3680bb760fb8df9.png",
+    "static/media/logoHeader.png": "/spoticry-front/static/media/logoHeader.940f01a38d475a2b068b.png",
+    "static/media/readyListen.svg": "/spoticry-front/static/media/readyListen.de1f8e1ec0f4bea156568fc7b4cebd52.svg",
+    "index.html": "/spoticry-front/index.html",
+    "main.e9c9228d.css.map": "/spoticry-front/static/css/main.e9c9228d.css.map",
+    "main.9cf805ba.js.map": "/spoticry-front/static/js/main.9cf805ba.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c9228d.css",
-    "static/js/main.6affb5b8.js"
+    "static/js/main.9cf805ba.js"
   ]
 }
