@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/spoticry-front/static/css/main.e9c9228d.css",
-    "main.js": "/spoticry-front/static/js/main.df24ff08.js",
+    "main.js": "/spoticry-front/static/js/main.4671a9e4.js",
     "static/media/loginBackground.png": "/spoticry-front/static/media/loginBackground.bedab7487b57f59a6b76.png",
     "static/media/logoLogin.png": "/spoticry-front/static/media/logoLogin.b00d10e894fc74bbe0db.png",
     "static/media/logoFooter.png": "/spoticry-front/static/media/logoFooter.703af3680bb760fb8df9.png",
     "static/media/logoHeader.png": "/spoticry-front/static/media/logoHeader.940f01a38d475a2b068b.png",
     "static/media/readyListen.svg": "/spoticry-front/static/media/readyListen.de1f8e1ec0f4bea156568fc7b4cebd52.svg",
     "index.html": "/spoticry-front/index.html",
-    "main.e9c9228d.css.map": "/spoticry-front/static/css/main.e9c9228d.css.map",
-    "main.df24ff08.js.map": "/spoticry-front/static/js/main.df24ff08.js.map"
+    "main.4671a9e4.js.map": "/spoticry-front/static/js/main.4671a9e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9c9228d.css",
-    "static/js/main.df24ff08.js"
+    "static/js/main.4671a9e4.js"
   ]
 }
